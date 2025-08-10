@@ -1,4 +1,3 @@
-# _config.yml
 title: My Site
 description: My GitHub Pages site
 theme: jekyll-theme-primer
@@ -13,9 +12,3 @@ exclude:
   - README.md
   - yarn.lock
   - vendor
-exclude:
-  - node_modules
-  - package.json
-  - package-lock.json
-  - Gemfile
-  - Gemfile.lock
