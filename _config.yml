@@ -13,3 +13,9 @@ exclude:
   - README.md
   - yarn.lock
   - vendor
+exclude:
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
