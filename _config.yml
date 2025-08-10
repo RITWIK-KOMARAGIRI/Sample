@@ -1,0 +1,15 @@
+# _config.yml
+title: My Site
+description: My GitHub Pages site
+theme: jekyll-theme-primer
+
+# Prevent Jekyll from processing unwanted files/folders
+exclude:
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - yarn.lock
+  - vendor
